@@ -1,2 +1,3 @@
-# arc_69
-Arc 69
+# Arc_69
+
+Bit compressing research
